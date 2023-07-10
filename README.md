@@ -1,4 +1,7 @@
 # CRUDD
+![Снимок экрана 2023-07-11 013531](https://github.com/NurzhanAuelbek/CRUDD/assets/82052572/56c74b17-f5b2-4ba5-a9f7-5a9a5c1a8833)
+![Снимок экрана 2023-07-11 013908](https://github.com/NurzhanAuelbek/CRUDD/assets/82052572/79fc0af4-74e7-4676-9e9c-abf676fd858f)
+
 
 Добро пожаловать в репозиторий ASP.NET MVC CRUD Example! Этот проект представляет собой пример простого приложения CRUD (Create, Read, Update, Delete), построенного с использованием ASP.NET MVC.
 
